@@ -1,0 +1,30 @@
+body {
+    background-image: url('hatterem3.jpg');
+    font-family: Verdana;
+}
+
+#tartalom {
+    width: 80%;
+    max-width: 600px;
+    background-color: white;
+    margin: auto;
+    /* oldal középre helyezi*/
+    padding: 10px;
+    text-align: justify;
+}
+
+.card {
+    border: 2px solid gray;
+    border-radius: 10px;
+    background-color: #8599a1;
+    padding: 10px;
+    margin: 10px 0;
+}
+.torles {
+    clear: both;
+}
+img {
+    width: 50%;
+    float: left;
+    margin: 10px;
+}
